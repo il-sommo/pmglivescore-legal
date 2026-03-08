@@ -3,7 +3,7 @@
 **Ultimo aggiornamento**: 8 Marzo 2026
 
 ## 1. Introduzione
-L'app PMG LiveScore Mobile è progettata per consultare i risultati delle competizioni di Pony Mounted Games. La privacy degli utenti è una nostra priorità.
+L'app PMG LiveScore Mobile è stata sviluppata da Fabrizio Vacca per la community di Mounted Games al fine di consultare agilmente i risultati delle competizioni di Pony Mounted Games. La privacy degli utenti è una nostra priorità.
 
 ## 2. Raccolta Dati
 L'applicazione **non raccoglie** dati personali identificativi (PII):
